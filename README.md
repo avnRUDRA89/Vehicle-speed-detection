@@ -9,5 +9,4 @@ A real-time computer vision project that detects vehicles in video and estimates
 - Unique ID tracking with bounding boxes and speed display
 - Easy to calibrate for different videos or road setups
 
-## 📂 Project Structure
 
